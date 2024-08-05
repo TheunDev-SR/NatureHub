@@ -66,6 +66,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# NatureHub
-This is a website about information about nature and the environment. On this website there are 3 contents, namely articles, events and campaigns which can be modified in real time.
->>>>>>> 199ce25e41d8e2debc16d7ef01600650d938ca42
